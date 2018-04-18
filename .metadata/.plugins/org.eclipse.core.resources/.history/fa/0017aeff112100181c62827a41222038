@@ -1,0 +1,9 @@
+<?xml version = "1.0"?>
+<project name = "TestNGTutorial" default = "info">
+	
+   <target name = "info">
+      <echo>Hello World - Welcome to Apache Ant!</echo>
+   </target>
+	
+	
+</project>

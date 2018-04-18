@@ -1,0 +1,24 @@
+<?xml version = "1.0"?>
+<project name = "TestNGTutorial" default = "info">
+	
+   <target name = "info" depends="test2">
+      <echo>Hello World - Welcome to Apache Ant!</echo>
+   </target>
+	
+	  <target name = "test2">
+	      <echo>test case 2</echo>
+	   </target>
+	
+	  <target name = "MKDIR">
+	      <mkdir dir="saralareport"/>
+	   </target>
+	
+	  <target name = "del">
+	    <delete>
+	<fileset dir="saralareport">
+	    
+	</fileset>
+</delete>
+
+	   </target>
+</project>

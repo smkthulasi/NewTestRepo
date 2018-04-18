@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="20522" started-at="2018-03-27T04:24:28Z" finished-at="2018-03-27T04:24:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="20522" started-at="2018-03-27T04:24:28Z" finished-at="2018-03-27T04:24:48Z">
+      <class name="Com.AM.Test.LoginpageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.AM.Test.LoginpageTest@46d56d67]" name="setup" is-config="true" duration-ms="9303" started-at="2018-03-27T00:24:28Z" finished-at="2018-03-27T00:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="pagetilteTest()[pri:1, instance:Com.AM.Test.LoginpageTest@46d56d67]" name="pagetilteTest" duration-ms="28" started-at="2018-03-27T00:24:37Z" finished-at="2018-03-27T00:24:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pagetilteTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.AM.Test.LoginpageTest@46d56d67]" name="tearDown" is-config="true" duration-ms="1598" started-at="2018-03-27T00:24:37Z" finished-at="2018-03-27T00:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:Com.AM.Test.LoginpageTest@46d56d67]" name="setup" is-config="true" duration-ms="8390" started-at="2018-03-27T00:24:39Z" finished-at="2018-03-27T00:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validatelogoTest()[pri:2, instance:Com.AM.Test.LoginpageTest@46d56d67]" name="validatelogoTest" duration-ms="111" started-at="2018-03-27T00:24:47Z" finished-at="2018-03-27T00:24:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatelogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Com.AM.Test.LoginpageTest@46d56d67]" name="tearDown" is-config="true" duration-ms="1044" started-at="2018-03-27T00:24:47Z" finished-at="2018-03-27T00:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Com.AM.Test.LoginpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

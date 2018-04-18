@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" guice-stage="DEVELOPMENT" name="Failed suite [Sample suite]">
+  <test name="Login test(failed)" parallel="tests">
+    <classes>
+      <class name="Tutorial.RegisterTest">
+        <methods>
+          <include name="Gettitle"/>
+        </methods>
+      </class> <!-- Tutorial.RegisterTest -->
+    </classes>
+  </test> <!-- Login test(failed) -->
+</suite> <!-- Failed suite [Sample suite] -->

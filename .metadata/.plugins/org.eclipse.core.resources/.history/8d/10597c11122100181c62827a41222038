@@ -1,0 +1,11 @@
+<?xml version = "1.0"?>
+<project name = "TestNGTutorial" default = "info">
+	
+   <target name = "info" depends="test2">
+      <echo>Hello World - Welcome to Apache Ant!</echo>
+   </target>
+	  <target name = "test2" depends="info">
+	      <echo>test case 2</echo>
+	   </target>
+	
+</project>

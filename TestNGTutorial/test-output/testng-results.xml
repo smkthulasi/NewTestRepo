@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44351" started-at="2018-04-04T21:06:05Z" finished-at="2018-04-04T21:06:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44351" started-at="2018-04-04T21:06:05Z" finished-at="2018-04-04T21:06:49Z">
+      <class name="Tutorial.LoginTest">
+        <test-method status="PASS" signature="DoLoginTest(java.lang.String, java.lang.String)[pri:0, instance:Tutorial.LoginTest@6b57696f]" name="DoLoginTest" duration-ms="25599" started-at="2018-04-04T17:06:05Z" data-provider="getdata" finished-at="2018-04-04T17:06:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ammanager17@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoLoginTest -->
+        <test-method status="PASS" signature="DoLoginTest(java.lang.String, java.lang.String)[pri:0, instance:Tutorial.LoginTest@6b57696f]" name="DoLoginTest" duration-ms="8506" started-at="2018-04-04T17:06:31Z" data-provider="getdata" finished-at="2018-04-04T17:06:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[assetstaff2017@gmail.com ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoLoginTest -->
+        <test-method status="PASS" signature="DoLoginTest(java.lang.String, java.lang.String)[pri:0, instance:Tutorial.LoginTest@6b57696f]" name="DoLoginTest" duration-ms="9954" started-at="2018-04-04T17:06:39Z" data-provider="getdata" finished-at="2018-04-04T17:06:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[assetuser17@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[password25]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DoLoginTest -->
+      </class> <!-- Tutorial.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
