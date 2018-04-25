@@ -18,7 +18,7 @@ public class LoginpageTest extends TestBase {
 	public LoginpageTest(){
 		super();//super is a keyword to call parent class constructor.
 	}
-
+	//Pushpa updated 2nd time for pushing new codein Github
 	@BeforeMethod
 	public void setup()throws Exception{
 		System.out.println("Step 1: Before calling initialize method");
